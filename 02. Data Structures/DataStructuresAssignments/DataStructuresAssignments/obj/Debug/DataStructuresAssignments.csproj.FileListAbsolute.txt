@@ -1,0 +1,7 @@
+D:\Study\Data Structures Algorithms Specialization\Data Structures\DataStructuresAssignments\DataStructuresAssignments\bin\Debug\DataStructuresAssignments.exe.config
+D:\Study\Data Structures Algorithms Specialization\Data Structures\DataStructuresAssignments\DataStructuresAssignments\bin\Debug\DataStructuresAssignments.exe
+D:\Study\Data Structures Algorithms Specialization\Data Structures\DataStructuresAssignments\DataStructuresAssignments\bin\Debug\DataStructuresAssignments.pdb
+D:\Study\Data Structures Algorithms Specialization\Data Structures\DataStructuresAssignments\DataStructuresAssignments\obj\Debug\DataStructuresAssignments.csprojAssemblyReference.cache
+D:\Study\Data Structures Algorithms Specialization\Data Structures\DataStructuresAssignments\DataStructuresAssignments\obj\Debug\DataStructuresAssignments.csproj.CoreCompileInputs.cache
+D:\Study\Data Structures Algorithms Specialization\Data Structures\DataStructuresAssignments\DataStructuresAssignments\obj\Debug\DataStructuresAssignments.exe
+D:\Study\Data Structures Algorithms Specialization\Data Structures\DataStructuresAssignments\DataStructuresAssignments\obj\Debug\DataStructuresAssignments.pdb

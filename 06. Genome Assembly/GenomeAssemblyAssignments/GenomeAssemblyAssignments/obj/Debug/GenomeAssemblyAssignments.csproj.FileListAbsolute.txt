@@ -1,0 +1,7 @@
+D:\Study\Data Structures Algorithms Specialization\06. Genome Assembly\GenomeAssemblyAssignments\GenomeAssemblyAssignments\obj\Debug\GenomeAssemblyAssignments.csprojAssemblyReference.cache
+D:\Study\Data Structures Algorithms Specialization\06. Genome Assembly\GenomeAssemblyAssignments\GenomeAssemblyAssignments\obj\Debug\GenomeAssemblyAssignments.csproj.CoreCompileInputs.cache
+D:\Study\Data Structures Algorithms Specialization\06. Genome Assembly\GenomeAssemblyAssignments\GenomeAssemblyAssignments\bin\Debug\GenomeAssemblyAssignments.exe.config
+D:\Study\Data Structures Algorithms Specialization\06. Genome Assembly\GenomeAssemblyAssignments\GenomeAssemblyAssignments\bin\Debug\GenomeAssemblyAssignments.exe
+D:\Study\Data Structures Algorithms Specialization\06. Genome Assembly\GenomeAssemblyAssignments\GenomeAssemblyAssignments\bin\Debug\GenomeAssemblyAssignments.pdb
+D:\Study\Data Structures Algorithms Specialization\06. Genome Assembly\GenomeAssemblyAssignments\GenomeAssemblyAssignments\obj\Debug\GenomeAssemblyAssignments.exe
+D:\Study\Data Structures Algorithms Specialization\06. Genome Assembly\GenomeAssemblyAssignments\GenomeAssemblyAssignments\obj\Debug\GenomeAssemblyAssignments.pdb

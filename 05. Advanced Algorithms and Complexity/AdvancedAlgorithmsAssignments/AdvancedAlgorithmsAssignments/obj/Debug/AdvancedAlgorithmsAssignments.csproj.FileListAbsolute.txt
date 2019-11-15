@@ -1,0 +1,7 @@
+D:\Study\Data Structures Algorithms Specialization\05. Advanced Algorithms and Complexity\AdvancedAlgorithmsAssignments\AdvancedAlgorithmsAssignments\bin\Debug\AdvancedAlgorithmsAssignments.exe.config
+D:\Study\Data Structures Algorithms Specialization\05. Advanced Algorithms and Complexity\AdvancedAlgorithmsAssignments\AdvancedAlgorithmsAssignments\bin\Debug\AdvancedAlgorithmsAssignments.exe
+D:\Study\Data Structures Algorithms Specialization\05. Advanced Algorithms and Complexity\AdvancedAlgorithmsAssignments\AdvancedAlgorithmsAssignments\bin\Debug\AdvancedAlgorithmsAssignments.pdb
+D:\Study\Data Structures Algorithms Specialization\05. Advanced Algorithms and Complexity\AdvancedAlgorithmsAssignments\AdvancedAlgorithmsAssignments\obj\Debug\AdvancedAlgorithmsAssignments.csprojAssemblyReference.cache
+D:\Study\Data Structures Algorithms Specialization\05. Advanced Algorithms and Complexity\AdvancedAlgorithmsAssignments\AdvancedAlgorithmsAssignments\obj\Debug\AdvancedAlgorithmsAssignments.csproj.CoreCompileInputs.cache
+D:\Study\Data Structures Algorithms Specialization\05. Advanced Algorithms and Complexity\AdvancedAlgorithmsAssignments\AdvancedAlgorithmsAssignments\obj\Debug\AdvancedAlgorithmsAssignments.exe
+D:\Study\Data Structures Algorithms Specialization\05. Advanced Algorithms and Complexity\AdvancedAlgorithmsAssignments\AdvancedAlgorithmsAssignments\obj\Debug\AdvancedAlgorithmsAssignments.pdb

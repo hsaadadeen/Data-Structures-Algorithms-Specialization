@@ -1,0 +1,7 @@
+D:\Study\Data Structures Algorithms Specialization\04. Algorithms on Strings\AlgorithmsonStrings\AlgorithmsonStrings\bin\Debug\AlgorithmsonStrings.exe.config
+D:\Study\Data Structures Algorithms Specialization\04. Algorithms on Strings\AlgorithmsonStrings\AlgorithmsonStrings\bin\Debug\AlgorithmsonStrings.exe
+D:\Study\Data Structures Algorithms Specialization\04. Algorithms on Strings\AlgorithmsonStrings\AlgorithmsonStrings\bin\Debug\AlgorithmsonStrings.pdb
+D:\Study\Data Structures Algorithms Specialization\04. Algorithms on Strings\AlgorithmsonStrings\AlgorithmsonStrings\obj\Debug\AlgorithmsonStrings.csprojAssemblyReference.cache
+D:\Study\Data Structures Algorithms Specialization\04. Algorithms on Strings\AlgorithmsonStrings\AlgorithmsonStrings\obj\Debug\AlgorithmsonStrings.csproj.CoreCompileInputs.cache
+D:\Study\Data Structures Algorithms Specialization\04. Algorithms on Strings\AlgorithmsonStrings\AlgorithmsonStrings\obj\Debug\AlgorithmsonStrings.exe
+D:\Study\Data Structures Algorithms Specialization\04. Algorithms on Strings\AlgorithmsonStrings\AlgorithmsonStrings\obj\Debug\AlgorithmsonStrings.pdb
